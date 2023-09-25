@@ -13,11 +13,20 @@
   - [租车](#租车)
   - [房子](#房子)
     - [北达拉斯学区介绍](#北达拉斯学区介绍)
-    - [McKinney](#mckinney)
-    - [Plano](#plano)
     - [DallasISD](#dallasisd)
+      - [Highland Park](#highland-park)
+    - [Plano](#plano)
+    - [Frisco](#frisco)
+    - [Southlake](#southlake)
+    - [Irving](#irving)
+    - [Allen](#allen)
+    - [Coppell](#coppell)
+    - [McKinney](#mckinney)
+  - [School](#school)
+    - [Registration](#registration)
   - [References](#references)
     - [学校比较](#学校比较)
+      - [Dallas](#dallas)
     - [美国达拉斯租房攻略 2018](#美国达拉斯租房攻略-2018)
     - [达拉斯学区房 2023](#达拉斯学区房-2023)
       - [达拉斯学区房 2023 年大达拉斯地区十强公立学区](#达拉斯学区房-2023-年大达拉斯地区十强公立学区)
@@ -31,6 +40,7 @@
       - [三、如何选择达拉斯市学区房](#三如何选择达拉斯市学区房)
       - [四、达拉斯市学区房的优点](#四达拉斯市学区房的优点)
       - [五、达拉斯市学区房的不足之处](#五达拉斯市学区房的不足之处)
+      - [达拉斯附近游玩](#达拉斯附近游玩)
 
 
 ## 公交
@@ -251,20 +261,11 @@ plano靠dallas tollway那块进城 平均大约40～50分钟
 
 大多数工薪阶层老中都住在frisco和Plano，40-50万了不起了。(2019-08)
 
-Highland park学区对老师要求高，感觉那个家长群和Palo Alto有一拼。六十万预算 University park好很多，而且去哪里都方便，博物馆各种资源离得近，southlake相当远啊。
 
 
-Irving印度人很多，几乎全是印度人，学区很差
-
-
-在downtown工作最现实就是住Irving的Las Colinas 和Valley Ranch 附近进入Coppell校区的地方。那边预算60-70万肯定可以买一个新的4000尺 的房子。但是学生是以印度裔为主流。
 UP的就算了。60-70 万在UP只能买一个破烂小黑屋。还是有硬伤的，比如高速旁。
 Southlake， Plano， Allen都太远了。Coppell可以考虑。
 
-
-
-southlake现在印度人也无央乌央的多，而且增长迅猛，所谓的asian比例，其中印度人比中国人多，lz娃不是唯一，但会是班上唯二的华人娃.
-而且southlake占绝大部分的女的都不上班家庭主妇，算个保守老白大本营，白人女的很容易又蠢又自大又mean，加上又不上班眼界比较窄，很难接受外来事物，你上nextdoor上看看那些大妈的发帖留言就知道以后你娃同学家长是啥样的，一帮非常非常typical的白女，lz以后和这帮人混要做好心理准备
 
 
 推荐preston hollow，邻居都是很decent的;
@@ -272,13 +273,8 @@ southlake现在印度人也无央乌央的多，而且增长迅猛，所谓的as
 Preston hollow学校不好，住这里只能上私校。但是这里的私校很抢手，St Marks， Hockaday，Greenhill 都不好进。小学还可以去ESD和lamplighter
 
 
-其实Plano也是乌央乌央的印度人，所谓的亚裔比例高也就是印度人比例高。建议还是找个离上班近的好学区算了
-
 
 在walnut hill ln和 dallas north tollway交叉口的西北角，有一条街叫gaywood rd，楼主要是能搬到那条街上，以后一定要搞好邻里关系
-
-
-Plano去downtown要1个半小时的commute 太久了 一般人上班半小时顶多了
 
 
 达拉斯交通非常堵，60-70万确实frisco, allen 可以买新房，Plano没有什么新的，都比较旧。这几个到downtown 真的单程2小时那种，简直不能忍。而且学校里面,特别frisco 印度人非常多，很多小学和初中，印度人都占了70% ，非常夸张。和coppell 差不多吧。楼主要想提高生活质量，少花时间在路上，只能加钱，两个Park 学区都是非常的好，有预算多点还是考虑两个Park .
@@ -288,55 +284,10 @@ valley ranch是穷老印住的地方，la colinas是富一点烙印住的地方�
 
 
 
-你看看Plano的Barksdale和Centennial小学的学区，这俩小学都还不错，老中老印不那么多，两个区都在Willowbend附近，离Tollway很近，去downtown走tollway的话比plano其它地方稍近一些，40分钟到1小时应该能到downtown。我原来住在这里，这两个学校我女儿都上过，还不错。别去Brinkers的学区。这里的初中不是最好的，但是因为小学有mathrock program ,可以转到75023那里读好的初中和高中，只是要自己接送。然后是plano west，是好学校
-
-具体学区划分你可以查plano ISD , 有地图的。
-
-
 
 windheaven farm 那里小学是Brinker.  我在Plano搬了三次家，从glenhollow搬到willowbend, 孩子读过Barksdale, Centennial, 都不错。后来因为mathrock的缘故集中转去Brinker . 她在Brinker读了一年4年级， 那里管理极其混乱。整个学校一塌糊涂。她在学校两次被同学碰倒受伤（不是针对她的那种，就是小黑孩乱跑撞到她）， 一次右脸疼了半年才好，另一次扭了脚，学校完全没有反应，什么都没有做，没有通知我们，更没有给孩子处理一下。她疼哭了也没有人理睬，直到放学回家告诉我们才带她去看医生和上药。Brinker之所以这么乱，是因为city的白左们非要把190南边的apartment那里的孩子用校车送到brinker来上学，都是黑孩子。每天早上校车一停，大群的小黑孩冲出来满院子乱窜，学校前的马路上都是，也没有老师管。我们送孩子上学看得目瞪口呆。  Barksdale和Centennial早上都有老师带着学生和家长在路边接孩子的，绝对不会发生这样的事。Brinker的学生数量比前面两个学校多很多。Centennial规模最小，好像只有500来个孩子，Barksdale好像也只有1000来个，Brinker好像是3000个的样子。具体的我也记不清了，这个数据未必准确，只是我的印象。 上了一年，我们实在是受不了这个学校，所以转走了。
 这是5年前的事情，也许现在有所不同。我的朋友家孩子目前在Barksdale上学，说学校还是很好
 
-
-[Dallas ISD School Directory 2015 Map](https://www.google.com/maps/d/u/0/viewer?mid=13yDsPDEsV3Vhp0TrObv66Id4wWw&hl=en_US&ll=32.71017891027329%2C-96.64909102531419&z=9)
-
-Dallas Independant School Distrit
-[School Listings - High Schools](https://www.dallasisd.org/Page/6504)
-
-DFW地区2022最佳私立高中排名: https://mp.weixin.qq.com/s/q5t4prj0Z_9BTK4f9z2-Rw
-St. Mark's School of Texas
-Greenhill School
-The Hockaday School
-Cistercian Preparatory School
-The Episcopal School of Dallas
-Dallas International School
-Jesuit College Preparatory
-Trinity Valley School
-Alcuin School
-Fort Worth Country Day School
-
-
-[Dallas Plano schools](https://www.greatschools.org/texas/plano/#TopSchools*Middle)
-
-private schools and charter schools
-[region10.org Dallas 附近10区 私立学校 和 特许学校 信息](https://www.region10.org/about-us/r10-regional-map/),
-[附近10区map](https://www.region10.org/about-us/r10-regional-map/),
-[附近10区pdf](https://www.region10.org/about-us/r10-regional-map/r10-regional-map-pdf/),
-Grayson, Fannin, Collin, Hunt, Dallas, Rockwall, Kaufman, Van Zandt, Ellis, Henderson;
-
-[Dallas Independant School District DISD](https://www.dallasisd.org/Page/29296)
-
-
-
-[Best 5 High at Plano,TX](https://www.greatschools.org/texas/plano/#TopSchools*High)
-[Best 5 High at Allen,TX](https://www.greatschools.org/texas/allen#TopSchools*High)
-
-
-
-
-[census.gov Cartographic Boundary Files - KML](https://www.census.gov/geographies/mapping-files/time-series/geo/kml-cartographic-boundary-files.html)
-
-[My Google Map Home](https://www.google.com/maps/d/u/0/home)
 
 
 ### 北达拉斯学区介绍
@@ -361,27 +312,12 @@ TAG: Talented and Gifted
 SEM: School of Science and Engineering (at Yvonne A. Ewell Townview Center), 1201 E. Eighth St., Dallas, TX 75203
 TAG和SEM是全美的Top高中，必须是Dallas ISD的学生在8年级时考试，考上了才能读。当然，如果能进这两所高中，基本上稳进还不错的大学。South Lake 比较高大上，有钱人聚齐的地方，楼主如果买得起70万的房子，家庭年收入30万元，应该与邻居们相处的压力还可以，低于这个收入的有点尴尬了。Plano算是华人中产扎堆多的城市，各种中文学校和after school都不错，体育挺强的，Plano Sports Authority的各种program很多，应该比south lake更便利。当然，很可能South Lake都是请私教在家里教了。
 
-Plano的学校差参不齐，最好的senior high是Plano West senior high, 不比South Lake差。Jasper 是一个Junior high school。
-
-有钱，对中餐和中国习惯的生活便利要求没那么多，通勤可以接受的话，South Lake。Plano最好的几所中小学，亚裔70％以上，印度人和中国人一半一半，总体上印度裔的多一点。South Lake旁边有一个城市叫Keller，前几年开始盖一些新房子，有的属于SouthLake学区，亚裔也多，应该是印度人更多。
 
 Coppell，尤其是靠高速的valley ranch一带基本上是印度人为主了。
 
 
-
 Dallas ISD更是差参不齐，很多学校黑人和free lunch比例好。Dallas也就那两所高中好。离downtown 比较好的university park ISD也是一流的，和South Lake有一拼，很多SMU教授的子女，房子比south lake贵一些。Plano的两所初中比较好，Rice and Robinson，尤其是Rice。与此相伴，Rice印度人也很多。Rice下面的几所小学，Wyatt and skaggs都很不错。你可以从schooldigger上看看排名，我觉得比较靠谱。Plano 的幼儿园canyon creek，是私校的摇篮😊。Creme de la creme是全国连锁，coppell学区不错，好像Plano学区差点。中英双语幼儿园很多，Plano Day School是基本上没有华人妈妈complain的，还有一个Montessori 也不错。
 我个人觉得，如果经济条件允许，你家孩子可以送私校，两个非常好的男校和女校。在附近买房子，各种问题都解决了。
-
-
-条件那么好可以主highland park或者university park那边 上班近很多.
-如果最后选Plano对话 推荐靠近tollway的willow bend和windhaven farm
-
-
-无脑southlake。
-Dallas是中心的talented school只对Dallas county开放。而且要考的，如果你想住在dallas，又有好的公立学校，又有考talented school的后路，那就只有park cities，或者lakewood。
-Lakewood其实交通来说，对你老公还满合适的。但是，只有小学10分。初中高中要么私利，要么考talented school。
-
-
 
 
 如果你考虑Willowbend Plano的房子，要选centennial 或者Barksdale小学的，这两个小学比较好，避免Brinkers 和 Hoffman的。Willowbend 初中是Renner，高中是Shapton , senior high 是Plano West。其中Renner不如rice, Shapton 不如北边的Jasper好。
@@ -390,9 +326,138 @@ Lakewood其实交通来说，对你老公还满合适的。但是，只有小学
 
 
 
-
 达拉斯也有GT小学和初中的 Travis和Dealy蒙校都可以的 但是都要考 竞争也蛮激烈的 好处是可以考上之后再搬到达拉斯 ---发自Huaren 官方 iOS APP
 
+
+
+
+Highland park是old money，家族有权有势。
+Southlake是new money，基本是律师医生。
+都很好，看你能不能融入。亚裔中产其实一般去Allen，Frisco和Plano。
+分数没有任何意义，因为包括了diversity，都是有钱人都是白人，就会拉低分数。
+德州房产税极高，富人区的公校肥的流油，水平很高，academic甚至比大部分私校要好。 
+真正值得上的私校，基本上只有只有男校St. Mark's，女校Hockaday，还有Greenhill，每年考试层层选拔百来个人。
+
+对于买得起highland park的人来说私校的学费根本不算什么，公校私校只是个选择问题。university park倒是还有些为了孩子上学搬过去的中产。
+highland park这种富豪区的卖点从来不是学区，学区只是一个bonus，和frisco/allen/plano/coppell这种学区先导的neighborhood没有什么可比性啊
+
+有些家里是让所有孩子考私校，考得上的上私校，考不上的上公校。
+
+住highland park的大部分孩子去私校。如果准备去公校，southlake 当然比较好。
+
+southlake的收入水平比Highland park低一些，所以大家还是以公校为主，好孩子们就把公校提起来了；Highland park里能上好私校的都上好私校了，所以上公校的可能是被刷下来的所以不如southlake? 我纯是猜的
+
+highland park和southlake的区别压根不在于公立学校那一两分，在于整个社区的人员构成。能够在highland park和southlake之间自由选择买房子的不怎么需要考虑钱或者通勤，我那个住southlake的大老板已经五年没来过办公室了（他的理由是southlake lot大+不想娃在私立学校被惯坏了），一样天天被住在highland park的小老板跪舔。
+同理，HP送公立的人其实也就是送个情怀或者想走某种体育路线，根本不差私立那点学费。我认识的HP high/greenhill/st mark/hockaday/ursline/jesuit毕业的小年轻们基本上在家境和教育程度上没有任何区别。jerry jones的孙子还是highland park high毕业的呢（为了打football），咱们总不能脑补他家送不起私立吧……我身边的例子，住highland park那位小老板的儿子据说为了baseball也从greenhill转到highland park high了。
+要是只有一两个娃的话倒是可以考虑university park小黑屋（比hp稍微实惠一点）或者买preston hollow/addison/north Dallas+私校。如果娃多的话，HP 100M的小黑屋会住得很憋屈的，一点在德州的自由自在都感受不到。
+
+
+我觉得southlake送公校的多是因为southlake附近没有私校……住得起southlake的人一般不需要考虑通勤。那附近需要考虑通勤的中产都苦哈哈地驻扎在colleyville和flower mound，其实学区评分和southlake差不多，但是lot没那么大，房子没那么贵。
+楼主真正需要纠结的是生活质量和通勤时间，而不是几个顶级公立学区之间那一两分的差别。
+
+highland park还是Southlake 是life style的选择。不能死抠学校。住在HP的人想都不会去想我的公校跟Southlake 哪个好。住在Southlake 的人也不会想这种无聊的问题。都是好学校，过了一个threshold 比较毫无价值，对现实帮助不大。除了学区，生活有很多其他的因素。
+
+
+
+学校好坏真的和老师没啥关系。一个学区其实最主要看的是学生的来源，还有就是家长做义工的投入。好的学校，PTA是非常积极的，各种课外活动基本都是PTA在负责。southlake 和highland park最主要的区别就是学生的背景。举个例子，高级打工仔的孩子和大老板的孩子。眼界，人脉是完全不同的。不要以为买个HP的房子你就能混上流，不同阶层的人玩不起来。家庭背景相似的孩子一般玩得好些。比如我女儿班上一半小朋友的家庭是租公寓，一半是住独立屋。住公寓的小孩从来不和我们playdate。人家也是找同一小区的同学玩的。有ranch house的也不跟我们玩，人家一有假期就跟着父母飞。最后发现，还是和我们收入，习惯，背景差不多的家庭在一起玩。所谓跨越阶层的友谊目前没有发生过。
+最后我想说，父母的阶层就决定子女的起点。找好学区不如家长提高自己，对孩子言传身教。一般孩子优秀的，都有优秀和愿意陪伴孩子的父母。
+
+
+### DallasISD
+
+你非要用DallasISD 几个学校来说明你们是好学区，还推荐给楼主看就是不对的。 DallasISD是差学区。你都说了中学要被迫去做其他选择了， 要吗私校， 要吗考TAG。 Lakewood 的房子又老， 学区又差，如果不是离downtown近工作的地方， 为什么要在那儿买房？ 大多数人不会花90万买房，再送私校。90万，DFW地区可以买到更好的地区， k-12公立学校。 
+
+Dallas ISD有非常好的中学可以考进去，比如middle school里面Travis非常好，高中可以考TAG, the School for the Talented and Gifted。
+
+
+Dallas中心的talented school只对Dallas county开放。而且要考的，如果你想住在dallas，又有好的公立学校，又有考talented school的后路，那就只有park cities，或者lakewood。
+Lakewood其实交通来说，对你老公还满合适的。但是，只有小学10分。初中高中要么私利，要么考talented school。
+
+
+#### Highland Park
+
+Highland park学区对老师要求高，感觉那个家长群和Palo Alto有一拼。六十万预算 University park好很多，而且去哪里都方便，博物馆各种资源离得近，southlake相当远啊。
+
+条件那么好可以主highland park或者university park那边 上班近很多.
+
+### Plano
+
+华人集聚，卷
+
+地税 2.2%
+
+Plano去downtown要1个半小时的commute 太久了 一般人上班半小时顶多了
+
+Plano的主要问题是房子太旧，条件差。好多5，60万的就是不折不扣的小黑屋，1M左右的都很旧，住起来别别扭扭的。我们当时看了几个，果断放弃。
+
+其实Plano也是乌央乌央的印度人，所谓的亚裔比例高也就是印度人比例高。建议还是找个离上班近的好学区算了
+
+Plano的学校差参不齐，最好的senior high是Plano West senior high, 不比South Lake差。Jasper 是一个Junior high school。
+
+Plano最好的几所中小学，亚裔70％以上，印度人和中国人一半一半，总体上印度裔的多一点。
+
+west Plano 还是有亚裔diversity的学区里第一名。 位置离城里比起他类似的学区都要近，大人在总部区或者downtown ，uptown上班，小孩去念私校也都还可以跑。
+
+
+你看看Plano的Barksdale和Centennial小学的学区，这俩小学都还不错，老中老印不那么多，两个区都在Willowbend附近，离Tollway很近，去downtown走tollway的话比plano其它地方稍近一些，40分钟到1小时应该能到downtown。我原来住在这里，这两个学校我女儿都上过，还不错。别去Brinkers的学区。这里的初中不是最好的，但是因为小学有mathrock program ,可以转到75023那里读好的初中和高中，只是要自己接送。然后是plano west，是好学校
+
+具体学区划分你可以查plano ISD , 有地图的。
+
+
+如果最后选Plano对话 推荐靠近tollway的willow bend和windhaven farm
+
+
+### Frisco
+
+许多活动被烙印霸占？
+
+East Frisco 的 Richwoods 有一片小区以烙印为主。
+
+West Frisco 少烙印，少华人。房价2M以上。
+
+
+### Southlake
+
+Southlake 学区好，白人多，整个学区超拼体育，体育不好最好。。。
+
+
+southlake现在印度人也无央乌央的多，而且增长迅猛，所谓的asian比例，其中印度人比中国人多，lz娃不是唯一，但会是班上唯二的华人娃.
+而且southlake占绝大部分的女的都不上班家庭主妇，算个保守老白大本营，白人女的很容易又蠢又自大又mean，加上又不上班眼界比较窄，很难接受外来事物，你上nextdoor上看看那些大妈的发帖留言就知道以后你娃同学家长是啥样的，一帮非常非常typical的白女，lz以后和这帮人混要做好心理准备
+
+
+有钱，对中餐和中国习惯的生活便利要求没那么多，通勤可以接受的话，South Lake。
+South Lake旁边有一个城市叫Keller，前几年开始盖一些新房子，有的属于SouthLake学区，亚裔也多，应该是印度人更多。
+
+
+
+
+达拉斯教育资源主要分布在 Park Cities 到 私校区 到 Plano/Frisco 这条线上。
+
+公立评分前四：
+Lovejoy ISD,
+Carroll ISD(southlake)
+Highland park ISD
+Coppell ISD
+
+
+
+### Irving
+
+Irving印度人很多，几乎全是印度人，学区很差
+
+在downtown工作最现实就是住Irving的Las Colinas 和Valley Ranch 附近进入Coppell校区的地方。那边预算60-70万肯定可以买一个新的4000尺 的房子。但是学生是以印度裔为主流。
+
+
+### Allen
+
+只有一个高中，人数5、6千。
+
+
+### Coppell
+
+烙印多
+
+地税 3%
 
 
 ### McKinney
@@ -416,18 +481,15 @@ McKinney 好远啊！如果工作不在附近开车来回3小时啊！特别是7
 不用修。等真的地基问题严重了（比如室内墙内出现裂纹，门框变形）那再开始修。修地基也是大工程，要几万刀吧。目前这种房子测一测沉降多少。都有沉降问题（不水平）
 
 
-### Plano
+## School
 
-Plano的主要问题是房子太旧，条件差。好多5，60万的就是不折不扣的小黑屋，1M左右的都很旧，住起来别别扭扭的。我们当时看了几个，果断放弃。
+### Registration
 
-
-west Plano 还是有亚裔diversity的学区里第一名。 位置离城里比起他类似的学区都要近，大人在总部区或者downtown ，uptown上班，小孩去念私校也都还可以跑。
-
-
-### DallasISD
-
-你非要用DallasISD 几个学校来说明你们是好学区，还推荐给楼主看就是不对的。 DallasISD是差学区。你都说了中学要被迫去做其他选择了， 要吗私校， 要吗考TAG。 Lakewood 的房子又老， 学区又差，如果不是离downtown近工作的地方， 为什么要在那儿买房？ 大多数人不会花90万买房，再送私校。90万，DFW地区可以买到更好的地区， k-12公立学校。 
-
+Documents:
+- child's birth certificate,
+- a signed lease/mortgage,
+- your photo ID, and
+- a transfer card if you are coming from another NJ school district
 
 
 
@@ -454,7 +516,52 @@ Niche会对每个学校进行一个评分,像一般能拿到A+的学校都是非
 专门把美国的私立的中小学的信息进行整合，翻译成中文信息
 
 
+[greatschools](https://www.greatschools.org/)
+
+
 [美国公校私校介绍](https://digital.eastwestbank.com/cn/articles/1027.html)
+
+
+#### Dallas
+
+[Dallas ISD School Directory 2015 Map](https://www.google.com/maps/d/u/0/viewer?mid=13yDsPDEsV3Vhp0TrObv66Id4wWw&hl=en_US&ll=32.71017891027329%2C-96.64909102531419&z=9)
+
+Dallas Independant School Distrit
+[School Listings - High Schools](https://www.dallasisd.org/Page/6504)
+
+[DFW地区2022最佳私立高中排名](https://mp.weixin.qq.com/s/q5t4prj0Z_9BTK4f9z2-Rw)
+St. Mark's School of Texas
+Greenhill School
+The Hockaday School
+Cistercian Preparatory School
+The Episcopal School of Dallas
+Dallas International School
+Jesuit College Preparatory
+Trinity Valley School
+Alcuin School
+Fort Worth Country Day School
+
+
+[Dallas Plano schools](https://www.greatschools.org/texas/plano/#TopSchools*Middle)
+
+private schools and charter schools
+[region10.org Dallas 附近10区 私立学校 和 特许学校 信息](https://www.region10.org/about-us/r10-regional-map/),
+[附近10区map](https://www.region10.org/about-us/r10-regional-map/),
+[附近10区pdf](https://www.region10.org/about-us/r10-regional-map/r10-regional-map-pdf/),
+Grayson, Fannin, Collin, Hunt, Dallas, Rockwall, Kaufman, Van Zandt, Ellis, Henderson;
+
+[Dallas Independant School District DISD](https://www.dallasisd.org/Page/29296)
+
+
+[Best 5 High at Plano,TX](https://www.greatschools.org/texas/plano/#TopSchools*High)
+[Best 5 High at Allen,TX](https://www.greatschools.org/texas/allen#TopSchools*High)
+
+
+[census.gov Cartographic Boundary Files - KML](https://www.census.gov/geographies/mapping-files/time-series/geo/kml-cartographic-boundary-files.html)
+
+[My Google Map Home](https://www.google.com/maps/d/u/0/home)
+
+
 
 ### 美国达拉斯租房攻略 2018
 
@@ -685,3 +792,34 @@ Dallas Independent School District是美国最大的学区之一。其中有许�
 
 总之，达拉斯市的学区房市场有自己的明显特点，这个市场相比其他领域有着不同的魅力和投资潜力。在购买学区房时要考虑学区划分、房价、质量、交通便利程度、社区环境和设施等因素。希望本文能够对准备在达拉斯市购买学区房的家庭有所帮助。
 
+#### 达拉斯附近游玩
+
+
+小孩玩：动物园，科学馆，水族馆，植物园（儿童游乐园部分非常好玩！），水上公园，游乐园，美术馆，一天一个玩过来。
+
+适合大人的：六楼博物馆，毕竟全美也只有这么一个纪念总统被刺杀的博物馆。Highland park village购物，爱马仕香奈儿各种大牌，环境非常好，适合逛街拍照！
+
+
+另外强烈推荐去Fort Worth玩至少一天: 一定要去Water Gardens，然后可以去古镇，查一下时间表坐观光火车。下午4点看Cattle drive，见识一下Texas Long Horn。 然后在附近的店里逛逛，皮草非常便宜，可以买整块皮的地毯和其他皮具。还可以全家坐马车观光。
+
+小孩玩的有：旋转真马（就是把木马换成pony），大型maze, petting zoo，骑马，骑牛，小火车。
+
+推荐在Second Rodeo Brewing 吃鸡翅和Cheesesteak，味道极好，有乐队，地方特别大，气氛特别好！女卫生间还有巨幅裸男画，极具冲击力，哈哈。
+
+周五和周六晚上7：30有牛仔竞技比赛，非常有意思，一定要提前在网上买票！！！
+
+
+Fort Worth第一天就是上面那些玩的，第二天可以去Fort Worth植物园，动物园和美术馆，跟达拉斯又是不同的感受，都很好逛！
+（Fort Worth 夏天最好玩，小孩可以光脚在水里走。秋天去的话可以同时去For Worth 植物园里的日本园看秋叶。）
+
+第二天的话可以吃牛排，网上找个好牛排馆子。也可以吃法国餐厅Saint-Emilion Restaurant，这是极其正宗的法餐，比达拉斯的法餐还要正宗，嘿嘿。
+
+
+达拉斯吃饭：适合小孩的推荐The Magic Time Machine! 各种主题餐桌，挺好玩的，吃的也意外的可口。还有Sugar Factory，也很适合带娃去，有彩虹pancake和冒烟的饮料。
+
+如果要高档饭店，强烈推荐Monarch， 49楼风景绝佳，一定要提前订位，争取订靠窗的位置！一定要去卫生间，去最里面那个隔间，哈哈。
+
+另外就是牛排馆子（很多非常好的），以及tex-mex，也很多，网上口碑好的也都可以。
+
+
+如果有时间day trip的话，完全可以去休斯顿NASA, 当天来回。还可以去San Antonio，沿河玩一天。还有Austin Day trip 也可以。
