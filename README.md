@@ -12,6 +12,7 @@
       - [运车常用英文](#运车常用英文)
   - [租车](#租车)
   - [房子](#房子)
+    - [简介](#简介)
     - [北达拉斯学区介绍](#北达拉斯学区介绍)
     - [DallasISD](#dallasisd)
       - [Highland Park](#highland-park)
@@ -194,7 +195,7 @@ westfrisco 是比 westallen 更保值整体学区更好的地方房子也新 sou
 
 西 frisco 比东 frisco 好就印度人比例而言
 
-我对 75013 研究很久 那里最难买的小区 cypress meadows 中印白的比例大概在4:4:2,其实没有本质差别
+我对 75013(at Allen) 研究很久 那里最难买的小区 cypress meadows 中印白的比例大概在4:4:2,其实没有本质差别
 
 小红书上“妮妮捡的大白菜”是我的marketwatch随笔感兴趣可以看看
 
@@ -277,7 +278,9 @@ Preston hollow学校不好，住这里只能上私校。但是这里的私校很
 在walnut hill ln和 dallas north tollway交叉口的西北角，有一条街叫gaywood rd，楼主要是能搬到那条街上，以后一定要搞好邻里关系
 
 
-达拉斯交通非常堵，60-70万确实frisco, allen 可以买新房，Plano没有什么新的，都比较旧。这几个到downtown 真的单程2小时那种，简直不能忍。而且学校里面,特别frisco 印度人非常多，很多小学和初中，印度人都占了70% ，非常夸张。和coppell 差不多吧。楼主要想提高生活质量，少花时间在路上，只能加钱，两个Park 学区都是非常的好，有预算多点还是考虑两个Park .
+Park Cities is a term used in reference to two communities in Dallas County, Texas – the Town of Highland Park and the City of University Park.
+
+达拉斯交通非常堵，60-70万确实frisco, allen 可以买新房，Plano没有什么新的，都比较旧。这几个到downtown 真的单程2小时那种，简直不能忍。而且学校里面,特别frisco 印度人非常多，很多小学和初中，印度人都占了70% ，非常夸张。和coppell 差不多吧。楼主要想提高生活质量，少花时间在路上，只能加钱，两个Park 学区都是非常的好，有预算多点还是考虑两个Park.
 
 
 valley ranch是穷老印住的地方，la colinas是富一点烙印住的地方，valley白人少，la colinas白人多一点，院子都超小，这部分很多人上私立或者charter
@@ -287,6 +290,25 @@ valley ranch是穷老印住的地方，la colinas是富一点烙印住的地方�
 
 windheaven farm 那里小学是Brinker.  我在Plano搬了三次家，从glenhollow搬到willowbend, 孩子读过Barksdale, Centennial, 都不错。后来因为mathrock的缘故集中转去Brinker . 她在Brinker读了一年4年级， 那里管理极其混乱。整个学校一塌糊涂。她在学校两次被同学碰倒受伤（不是针对她的那种，就是小黑孩乱跑撞到她）， 一次右脸疼了半年才好，另一次扭了脚，学校完全没有反应，什么都没有做，没有通知我们，更没有给孩子处理一下。她疼哭了也没有人理睬，直到放学回家告诉我们才带她去看医生和上药。Brinker之所以这么乱，是因为city的白左们非要把190南边的apartment那里的孩子用校车送到brinker来上学，都是黑孩子。每天早上校车一停，大群的小黑孩冲出来满院子乱窜，学校前的马路上都是，也没有老师管。我们送孩子上学看得目瞪口呆。  Barksdale和Centennial早上都有老师带着学生和家长在路边接孩子的，绝对不会发生这样的事。Brinker的学生数量比前面两个学校多很多。Centennial规模最小，好像只有500来个孩子，Barksdale好像也只有1000来个，Brinker好像是3000个的样子。具体的我也记不清了，这个数据未必准确，只是我的印象。 上了一年，我们实在是受不了这个学校，所以转走了。
 这是5年前的事情，也许现在有所不同。我的朋友家孩子目前在Barksdale上学，说学校还是很好
+
+
+### 简介
+
+downtown上班最方便当然是住park cities了，包括highland park和university park，不过这两个地方房价中位数都是超过一百万的
+
+有些区域不属于park cities，属dallas，但学区是highland park学区，10-10-10，五六十万能买到2000尺左右的房子，上班方便，学区好，就是房子老一些
+
+plano最好的区域是75093，房子大概九几年，或者是00以后的，但新房基本没有了。价格还好，但是去市区上班堵得厉害
+
+还有很多亚裔住allen和frisco，这两都是新区，房子又大又好，学区也好，就是交通不是很方便，尤其frisco，要走toll way
+
+
+(2014)
+Plano就一中产聚集地而已，房子在25万到30万之间，算这个house range内的好学区，老中多，但绝对不能跟highlanpark和southlake的学校相比。southlake房子50万起价，那地不让建town house和apartment，只能建house，而且是4000尺以上，99%的居民是白人。他们那个区的高中橄榄球队，是全texas冠军，家长的生活就是以那个高中的football game为主。
+ 
+ 达拉斯便宜归便宜，但是工资没那么高。大多数上班族8-10万，所以plano比较合适，highland，southlake一般的工薪双职工还真的买不起。
+
+
 
 
 
@@ -379,6 +401,28 @@ Lakewood其实交通来说，对你老公还满合适的。但是，只有小学
 Highland park学区对老师要求高，感觉那个家长群和Palo Alto有一拼。六十万预算 University park好很多，而且去哪里都方便，博物馆各种资源离得近，southlake相当远啊。
 
 条件那么好可以主highland park或者university park那边 上班近很多.
+
+
+租房，highland park是那个最好的高中学区吗，那里今年已经满了，进不去了。
+
+
+(2014) 我朋友刚从highlandpark搬迁买了房在plano，她孩子在highland park上了一年学，她就受不住了，除了她家，那些同班同学家长里最差的一个是经理，其他人爸爸都是vp以上。她觉得太高大上了对孩子影响不好
+
+
+[Highland Park Middle School](https://mishpms.hpisd.org/apps/contact/)
+
+[Highland Park High School](https://hs.hpisd.org/)
+
+[Highland Park ISD map](https://portal.schoolsitelocator.com/apps/ssl/?districtcode=00085#)
+
+
+衣：你要是住highland park，附近有个我觉得DFW地区最好的mall， northpark，啥都有，要是需要买更高大上的东西，highland park 自己有一个highland park village，那儿啥chanel hermas blablabla 都有
+
+食： 如果你要是自己在家做，那么大华，乔冠应该能满足你所有需求了，稍微远一点还有hmart，香港超市啥；中餐馆集中在大华，乔冠还有richardson的天天超市附近，对了，大华乔冠costco都在差不多一起
+
+住：只对university park这边了解一些，plano了解不多。。。。
+
+行：好吧，rush hour的时候是有些堵车，你要是在downtown上班，我一般早上8点路过donwtown，也没有堵得死死的。就是车多，移动慢一点，所以也还好，你要是想避免traffic，可以把车停在Dart车站，然后坐小火车进downtown，挺安全的
 
 ### Plano
 
