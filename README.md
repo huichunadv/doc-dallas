@@ -25,6 +25,10 @@
     - [McKinney](#mckinney)
   - [School](#school)
     - [Registration](#registration)
+  - [其他](#其他)
+    - [购物](#购物)
+    - [驾照](#驾照)
+  - [English](#english)
   - [References](#references)
     - [学校比较](#学校比较)
       - [Dallas](#dallas)
@@ -534,6 +538,39 @@ Documents:
 - a signed lease/mortgage,
 - your photo ID, and
 - a transfer card if you are coming from another NJ school district
+
+
+## 其他
+
+### 购物
+
+如果需要购买一些衣物可以去镇上的购物中心Pavillion North Shopping Center或Pavillion Court去购买，也可以到达拉斯的NorthPark Center购物。家具类产品可以在Home depot买到，床垫可以在Sleep Station买。
+
+
+### 驾照
+
+
+买车
+大家研究+看中自己喜好的车后，可以直接与dealer联系，但一定要记得砍价哦，因为放在网站上的价格往往偏高，可以根据实际情况往下砍。
+
+驾照
+首先如果有别的州的驾照，要去DPS询问是否可以直接更换，根据每个州的规定，有些是不可以直接换的～
+1. 路考之前需要先拿到一个learning permit, 那这到底是个什么呢，就是要在网上缴费上课做题，当考试达到75分以上就可以换取permit了。
+2. 去办理permit的时候记得准备好笔试通过的证书、护照、I-94 (入境证明,可以在网上直接搜到), I-20,SSN,两份能证明现在居住地(居住30 天以上)的文件和25刀。有permit的同学要记得，副驾有一位已满21岁并且拿到正式驾照的人，才可以开车哦。
+3.1. 当permit拿到手后，在网上进行一个impact的学习和做题，之后可以找中国驾校进行学习，大概80刀就可以通过考试。最后准备好全部材料，再到 DPS换取正式驾照就可以了。
+或者 3.2. 当然也可以在DPS 官网预约路考，(一般要提前一个月预约),路考当天, 记得带 着网上预约打印出来的单子和护照、I20 等文件提前一两个小时去DPS。
+1. 所有完成后，大概驾照两周会寄送到你填的地址，记得check mail box。
+
+*DPS 只有周一到周五才开门，一定要安排好自己的时间。
+
+
+## English
+
+
+[Study English in Dallas](https://www.visasupply.com/passports-and-visas-101/post/where-to-study-english-in-dallas)
+
+[pdf: Guide to English Classes ESL for Adults DFW International-2014](https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/1118195/Guide_to__ESL__for_Adults.pdf)
+
 
 
 
