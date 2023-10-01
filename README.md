@@ -10,9 +10,12 @@
     - [运车](#运车)
       - [公司](#公司)
       - [运车常用英文](#运车常用英文)
+  - [驾照](#驾照)
+    - [换车牌](#换车牌)
   - [租车](#租车)
   - [房子](#房子)
     - [简介](#简介)
+    - [租房](#租房)
     - [北达拉斯学区介绍](#北达拉斯学区介绍)
     - [DallasISD](#dallasisd)
       - [Highland Park](#highland-park)
@@ -24,14 +27,17 @@
     - [Coppell](#coppell)
     - [McKinney](#mckinney)
   - [School](#school)
+    - [Residency](#residency)
     - [Registration](#registration)
   - [其他](#其他)
     - [购物](#购物)
-    - [驾照](#驾照)
+    - [驾照](#驾照-1)
   - [English](#english)
   - [References](#references)
     - [学校比较](#学校比较)
       - [Dallas](#dallas)
+    - [出租](#出租)
+    - [犯罪地图](#犯罪地图)
     - [美国达拉斯租房攻略 2018](#美国达拉斯租房攻略-2018)
     - [达拉斯学区房 2023](#达拉斯学区房-2023)
       - [达拉斯学区房 2023 年大达拉斯地区十强公立学区](#达拉斯学区房-2023-年大达拉斯地区十强公立学区)
@@ -96,6 +102,7 @@ Office of International Affairs
 https://www.roadrunnerautotransport.com/quote/6IWT9sWaf-fuCNVz35M50A
 
 
+
 如果relocation公司不是实报实销，需要自己掏运车费的话，运车费用算moving cost，来年报税时可以这部分不用交税，federal+ca税能省30%-50%了，相当于运车费打了5-7折。
 
 运费+寄行李的搬家钱记得第一年报州税的时候报上，可以减挺多税的。
@@ -114,7 +121,7 @@ https://www.roadrunnerautotransport.com/quote/6IWT9sWaf-fuCNVz35M50A
 
 
 montway 还砍价了 50
-
+[montway](https://www.montway.com/), 912 miles, 报价 $949
 
 #### 公司
 
@@ -155,6 +162,56 @@ ref: https://www.extrabux.com/chs/guide/6468611
     Quotes 报价（预估价）
     Pick up information 取车信息
     Delivery information 送达信息
+
+
+## 驾照
+
+申请德州驾照需要的文件:
+
+- 现在的驾照
+- 在美国居住的合法身份证明 (护照/绿卡/签证等)
+- 可以证明您居住地址的材料 (水电网银行账单等，需要2份不同类型的账单/信件)
+- 社安卡
+- 名下汽车在德州的注册文件
+- 汽车保险卡
+
+从外州搬来，需要办德州驾照，您必须先把车牌换成德州车牌，才可以办德州驾照
+
+Department of public safety
+
+
+德州驾照办理官网预约: [here](https://public.txdpsscheduler.com)
+
+
+
+
+### 换车牌
+
+- 车检, 德州公共安全部(DPS)检查站， 许多换油点和修车店都被DPS认证为检测站。state inspection
+  [Inspection Station Locator](https://www.dps.texas.gov/RSD/VI/VIactiveStationLocator/default.aspx)
+  做车检的时候需要携带车辆的保险单，如果您的车保险是外州保险，一定要带上保险具体的细节，以便让检查点核实您保险满足德州最低保险额度。
+  (保险你要通知自己的agent，有的换个地址和州名就行，有的必须cancel，再在德州重新买。总之 proof of insurance 上必须写明是德州的保险?)
+
+像纽约州，您在别的州上了新的车牌之后，必须要将车牌照寄回DMV，他们收到车牌之后你才能取消保险。否则会导致罚款或者驾照被吊销。
+
+- 上牌照
+去当地县的税务办公室(tax-assessor collector office)来办。需要带上
+
+  - ID
+  - 德州汽车保险卡
+  - 车检证明
+  - 车辆的证明(也就是车的Title), 或贷款信息
+  - 申请表
+    - form 130U
+    - form VTR-272 （如果有贷款）
+
+查找你所在的县(County) 税务办公室 tax office 地址的链接: [here](https://www.txdmv.gov/tax-assessor-collectors/county-tax-offices)
+
+
+申请表下载链接: [here](https://www.txdmv.gov/sites/default/files/form_files/130-U.pdf)
+
+
+
 
 
 ## 租车
@@ -313,6 +370,27 @@ Plano就一中产聚集地而已，房子在25万到30万之间，算这个house
  达拉斯便宜归便宜，但是工资没那么高。大多数上班族8-10万，所以plano比较合适，highland，southlake一般的工薪双职工还真的买不起。
 
 
+### 租房
+
+(In my city the only requirements are that you have a job and meet the income limit, pass the credit check and background check. That's it.....I wouldn't go any further with the process if I was ask this question.)
+
+you should have copies of all the necessary back-up documentation at the ready, including:
+
+- A signed letter of employment, on official company letterhead (original, not photocopied), stating your current position, annual salary (guaranteed plus bonus, if applicable), and length of employment. Your company's Human Resources department can usually help you with this.
+
+- Two to three most recent pay stubs.
+
+- Your most recent federal tax returns, especially if are self-employed, and can't provide either of the above. (Note: some landlords will want to see both pay studs AND your tax returns, some just one or the other).
+
+- Up-to-date copies of your bank statements, both checking and savings accounts.
+
+- A list of your past 3-5 residences, along with the landlord's name and phone number.
+
+- A photo ID, such as a driver's license or passport.
+
+Less frequently required, but you should still have on hand in case you need them:
+- A letter of recommendation or verification from your current and / or previous landlords.
+- A list of references—your accountant, or lawyer, or past employers—with phone numbers, to put on the application, if necessary.
 
 
 
@@ -531,6 +609,20 @@ McKinney 好远啊！如果工作不在附近开车来回3小时啊！特别是7
 
 ## School
 
+
+### Residency
+
+residency documents: [ref](https://www.hpisd.org/apps/pages/index.jsp?uREC_ID=972498&type=d&pREC_ID=1292989)
+
+- the new deed or lease,
+- an electric or water bill at the same address,
+  - For the water or electric bill, the campus will temporarily accept a copy of the request for service to begin in your name at that address
+- a driver's license at the same address.
+  - For the driver’s license, the campus will temporarily accept a printout of the change-of-address request from the [Texas Dept. of Public Safety website]()
+
+The primary residence must be within HPISD. FD(REGULATION) defines residency as follows:
+“A person resides in the district if the true, primary, physical place where the person lives with the intent to remain for a considerable amount of time is within the boundaries of the district. A person’s residence is the fixed, permanent, and principal place of habitation that is the center of the person’s domestic, social, and civic life. A person can reside in only one place at a time.”
+
 ### Registration
 
 Documents:
@@ -539,6 +631,12 @@ Documents:
 - your photo ID, and
 - a transfer card if you are coming from another NJ school district
 
+
+others:
+- Application forms (if applicable)
+- Transcripts
+- Birth certificates
+- Immunization records
 
 ## 其他
 
@@ -571,7 +669,7 @@ Documents:
 
 [pdf: Guide to English Classes ESL for Adults DFW International-2014](https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/1118195/Guide_to__ESL__for_Adults.pdf)
 
-
+[english as a second language (esl) in Dallas](https://www.findhelp.org/education/english-as-a-second-language-%28esl%29--dallas-tx)
 
 
 
@@ -586,6 +684,11 @@ Documents:
 
 
 [达拉斯华人区plano买房指南](https://www.buyhouseindallas.com/达拉斯房产市场/达拉斯华人区plano买房指南（普莱诺）/)
+
+
+
+[背景调查](https://www.fastbackgroundcheck.com/people)
+
 
 
 ### 学校比较
@@ -643,6 +746,35 @@ Grayson, Fannin, Collin, Hunt, Dallas, Rockwall, Kaufman, Van Zandt, Ellis, Hend
 [My Google Map Home](https://www.google.com/maps/d/u/0/home)
 
 
+### 出租
+
+[apartments](https://www.apartments.com)
+
+[zillow](https://www.zillow.com/)
+
+[realtor](https://www.realtor.com)
+
+
+
+[The University of Texas at Dallas 生存指南](https://posts.careerengine.us/p/623b9a6af70d47568e766f9f)
+
+
+### 犯罪地图
+
+[spotcrime](https://spotcrime.com/)
+免费的犯罪地图,它从执法机构、新闻报道和用户提示中收集有关犯罪事件的信息，然后在谷歌地图上标记
+
+[familywatchdog](https://www.familywatchdog.us/) 输入居住地址、学校或是人名，就能得到你查询区域，性犯罪案件的情况
+
+[Dallas Ft Worth Hoods Maps](https://www.google.com/maps/d/u/0/viewer?mid=1cjoVUCbyC68veenm4gc9aa3F6qk),
+[intro](https://www.kulturevulturez.com/map-dallas-hoods-fort-worth-hoods/)
+
+
+
+[Citizen App](https://citizen.com/)是一款基于定位实时向用户发送附近安全警报的应用程序，主要在全美约30个大城市提供服务，该应用通过用户提示、监听执法无线电通信和其他来源获取信息，涵盖了包括火灾、车祸、儿童失踪、其他犯罪等的报告。
+Citizen App上用户众多，有很多一手消息来源，现场直播视频，甚至比新闻报道还快。但是也引发了一些争议，因为有时候有市民打911报案，并不一定真有罪案发生，而Citizen迅速的警报有可能会引发过度焦虑。
+
+
 
 ### 美国达拉斯租房攻略 2018
 
@@ -665,7 +797,7 @@ ref: https://mtoutiao.xdf.cn/goabroad/201808/10806120.html
 
 1、由于达拉斯夏天很热，阳光很足，所以建议同学们在租房时尽量选南偏东的房型，否则夏天真的会被晒到受不了。
 
-2、在租房前要问清楚一些细节，比如说水电网的缴费规则，还有是否有保险保险包括哪些、是否收垃圾以及能不能养宠物等。
+2、在租房前要问清楚一些细节，比如说水电网的缴费规则，还有是否有保险, 保险包括哪些、是否收垃圾以及能不能养宠物等。
 
 3、 一些主要的租房区域：
 
@@ -850,7 +982,7 @@ https://www.usplanking.com/article/195466
 
 1.教育优良
 
-Dallas Independent School District是美国最大的学区之一。其中有许多知名的高中，如建议受到美国新闻和世界报道排名的独立高中，它是达拉斯市内排名最高的公立高中之一。而家庭想要为孩子提供更好学术氛围的，也可以选择一些私立学校，例如达拉斯的圣母太后学院（Our Lady of the Lake Catholic School）等。
+Dallas Independent School District 是美国最大的学区之一。其中有许多知名的高中，如建议受到美国新闻和世界报道排名的独立高中，它是达拉斯市内排名最高的公立高中之一。而家庭想要为孩子提供更好学术氛围的，也可以选择一些私立学校，例如达拉斯的圣母太后学院（Our Lady of the Lake Catholic School）等。
 
 2.房子的保值性高
 
