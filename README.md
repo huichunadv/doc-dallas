@@ -412,8 +412,18 @@ Liberty High School：Frisco类似学校, 小学校；印度人多，有印度�
 UT Austin 有 6% 自动录取
 
 
-TAG: Talented and Gifted
+TAG: Talented and Gifted,
+admission: https://www.dallasisd.org/domain/
+Temporary or secondary addresses do not count.
+The application period for next school year (2024-2025) runs from November 1, 2023, to January 31, 2024. TAG will take applications for an incoming 9th grade class of about 135 students.  In addition, current 9th graders may apply for a very limited number of seats in next year’s 10th grade class.  TAG does not admit new 11th or 12th graders.
+admissions@tagmagnet.org
+
+
 SEM: School of Science and Engineering (at Yvonne A. Ewell Townview Center), 1201 E. Eighth St., Dallas, TX 75203
+admission: https://www.dallasisd.org/domain/28951
+Online applications to the School of Science and Engineering Magnet (SEM) will be available online beginning November 2021 through January 31, 2022.
+
+
 TAG和SEM是全美的Top高中，必须是Dallas ISD的学生在8年级时考试，考上了才能读。当然，如果能进这两所高中，基本上稳进还不错的大学。South Lake 比较高大上，有钱人聚齐的地方，楼主如果买得起70万的房子，家庭年收入30万元，应该与邻居们相处的压力还可以，低于这个收入的有点尴尬了。Plano算是华人中产扎堆多的城市，各种中文学校和after school都不错，体育挺强的，Plano Sports Authority的各种program很多，应该比south lake更便利。当然，很可能South Lake都是请私教在家里教了。
 
 
