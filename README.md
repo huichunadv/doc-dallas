@@ -7,6 +7,7 @@
   - [Table of Contents](#table-of-contents)
   - [公交](#公交)
   - [搬家](#搬家)
+    - [卖车](#卖车)
     - [运车](#运车)
       - [公司](#公司)
       - [运车常用英文](#运车常用英文)
@@ -29,6 +30,8 @@
   - [School](#school)
     - [Residency](#residency)
     - [Registration](#registration)
+    - [Test Scores](#test-scores)
+    - [TAG and SEM](#tag-and-sem)
   - [其他](#其他)
     - [购物](#购物)
     - [驾照](#驾照-1)
@@ -94,6 +97,29 @@ Office of International Affairs
 
 
 ## 搬家
+
+
+### 卖车
+
+电商shift，vroom，carvana，carmax挨个quote一遍，找一个出价最高的韭菜卖
+我当时出价最高的是shift，过程丝滑，来收车的小哥感觉根本和dealership那些人精不是一套路，外观啥都不看，填了一些paperwork直接就好了。
+PS：我的车胎大概50k miles，都快磨平了，两个月后看shift网站上挂出来也没换胎，最后原封不动卖了（给下一任韭菜）
+
+再补一个autonation 和 ALGO 他们家收车价格还可以。
+
+刚卖给carmax一辆。。来了根本没验，直接签字给支票（提前打印好了）。。前后不到两分钟。。
+然后过了一个多礼拜，carmax在收购价上加了50%上线，两天不到就卖了 :jiucai:
+感觉卖亏了，但是很省事儿。。它家给的价也是最高的。。
+
+
+补充一个echo park，当初给我的quote最高（虽然没卖），当天卖好像还会多给两三百
+
+
+carmax试过，给的是KBB的trading的下限。
+
+
+
+carmax quote $1200； craigslist卖了 $7000
 
 
 ### 运车
@@ -353,6 +379,33 @@ windheaven farm 那里小学是Brinker.  我在Plano搬了三次家，从glenhol
 这是5年前的事情，也许现在有所不同。我的朋友家孩子目前在Barksdale上学，说学校还是很好
 
 
+
+
+
+dallas地区治安环境最好最方便性价比最高的是 Central和West Plano, East plano别住 治安不好 老莫好多， West最贵 有好多豪宅 跟highland park差不多。还有frisco 发展最快， 华人好多买房子 治安也还不错。Richardson 不行 我感觉美国这地方就是出了一个城市边界立马不一样。garland 越南聚集地，很烂很破，别去。Carrollton 韩国聚集体，也不咋样。
+
+2017 east plano比不上west富裕 但是治安并没有很差 richardson比较老 但是最北边renner到murphy zipcode75082那个区域不错 garland北边靠近190那块还可以 frisco/the colony现在很火爆 加价都没抢到 而且对你来说太北边了 coppell也是房源紧张 楼主要有心理准备 达拉斯房市太热了
+
+租房的话，推荐住smu附近，可以跟留学生一起玩耍。在市区各种娱乐也比较方便。买房的话可以考虑Plano
+
+
+
+
+Plano hmart和ranch 99附近有一些餐馆中午有简餐
+
+(租房)Plano Richardson 沿75, 买房另说
+
+租smu旁边的75右边，12下边，skillman左边 那一片的 安全没问题。而且最好租luxury那种，因为luxury的经常有租一年免1-2个月租金的deal，算下来和平价公寓租金差不多
+
+不考虑通勤的话，可以住Plano靠近Frisco那，Plano和Frisco 都有好多中餐，离Carrollton还近，那好多韩餐。SMU那啥都没有，不是因为工作学习的话，没必要住那
+
+
+
+一个适合的华人几何中心点：Plano的Crystal Creek小区
+紧邻289，tollway 去Carollton，东边JS Chen早茶 第一考场 南边Parker & Coit那个巨型华人plaza，北边海底捞Plaza全都是15分钟车程左右覆盖。离121 toll way都很近出行挺方便。
+老美爱去的legacy west，总部区之类的都很近……
+
+
 ### 简介
 
 downtown上班最方便当然是住park cities了，包括highland park和university park，不过这两个地方房价中位数都是超过一百万的
@@ -399,29 +452,17 @@ Less frequently required, but you should still have on hand in case you need the
 ref: https://www.youtube.com/watch?v=GRClnDIQutc
 
 三所私校： 4万左右学杂费
-St. Mark's School of Texas (男校)
-The Hockaday School (女校)
-Greenhill School  (男女混校)
+St. Mark's School of Texas (男校),
+The Hockaday School (女校),
+Greenhill School (男女混校),
 
 公校：
-Highland Park High School: 富人区，房价百万以上
-Plano West Senior High：竞争激烈
+Highland Park High School: 富人区，房价百万以上;
+Plano West Senior High：竞争激烈;
 Allen High School：大学校，Allen唯一高中？
-Liberty High School：Frisco类似学校, 小学校；印度人多，有印度法老的tempo
+Liberty High School：Frisco类似学校, 小学校；印度人多，有印度法老的tempo;
 
-UT Austin 有 6% 自动录取
-
-
-TAG: Talented and Gifted,
-admission: https://www.dallasisd.org/domain/
-Temporary or secondary addresses do not count.
-The application period for next school year (2024-2025) runs from November 1, 2023, to January 31, 2024. TAG will take applications for an incoming 9th grade class of about 135 students.  In addition, current 9th graders may apply for a very limited number of seats in next year’s 10th grade class.  TAG does not admit new 11th or 12th graders.
-admissions@tagmagnet.org
-
-
-SEM: School of Science and Engineering (at Yvonne A. Ewell Townview Center), 1201 E. Eighth St., Dallas, TX 75203
-admission: https://www.dallasisd.org/domain/28951
-Online applications to the School of Science and Engineering Magnet (SEM) will be available online beginning November 2021 through January 31, 2022.
+UT Austin 有 6% 自动录取;
 
 
 TAG和SEM是全美的Top高中，必须是Dallas ISD的学生在8年级时考试，考上了才能读。当然，如果能进这两所高中，基本上稳进还不错的大学。South Lake 比较高大上，有钱人聚齐的地方，楼主如果买得起70万的房子，家庭年收入30万元，应该与邻居们相处的压力还可以，低于这个收入的有点尴尬了。Plano算是华人中产扎堆多的城市，各种中文学校和after school都不错，体育挺强的，Plano Sports Authority的各种program很多，应该比south lake更便利。当然，很可能South Lake都是请私教在家里教了。
@@ -619,6 +660,7 @@ McKinney 好远啊！如果工作不在附近开车来回3小时啊！特别是7
 
 ## School
 
+[school finder](https://dallasisd.schoolmint.net/school-finder/results)
 
 ### Residency
 
@@ -647,6 +689,57 @@ others:
 - Transcripts
 - Birth certificates
 - Immunization records
+
+
+### Test Scores
+
+
+[2017 South Carolina College- and Career-Ready Assessments (SC READY) Test Scores](https://ed.sc.gov/data/test-scores/state-assessments/sc-ready/2017/state-scores-by-grade-level/)
+
+Contact Information
+
+1429 Senate Street
+Columbia, SC 29201
+Phone: 803-734-8500
+Email: info@ed.sc.gov
+
+[SC READY info](https://ed.sc.gov/tests/middle/sc-ready/)
+
+
+
+Measures of Academic Progress(MAP)
+fall,winter,spring
+
+
+SC EUC Dec
+
+
+Preliminary SAT/National Merit Scholarship Qualifying Test
+[2023-2024 SC PSAT test intro](https://resources.finalsite.net/images/v1692633702/kershawk12scus/n8cyytn3zmjuoiuieu5n/PSATFall2023ParentLetter.pdf)
+
+[What's Tested on the PSAT? (2023-2024)](https://www.kaptest.com/study/psat/whats-tested-on-the-psat/)
+[sample test 1](https://satsuite.collegeboard.org/media/pdf/psat-10-practice-test-1.pdf)
+[sample test 2](https://satsuite.collegeboard.org/psat-nmsqt/preparing/practice-tests/paper)
+
+
+
+### TAG and SEM
+
+TAG: Talented and Gifted,
+[School for the Talented and Gifted Admissions](https://www.dallasisd.org/domain/32889),
+Temporary or secondary addresses do not count.
+The application period for next school year (2024-2025) runs from November 1, 2023, to January 31, 2024. TAG will take applications for an incoming 9th grade class of about 135 students.  In addition, current 9th graders may apply for a very limited number of seats in next year’s 10th grade class.  TAG does not admit new 11th or 12th graders.
+admissions@tagmagnet.org
+
+
+SEM: School of Science and Engineering (at Yvonne A. Ewell Townview Center), 1201 E. Eighth St., Dallas, TX 75203
+admission: [SEM / Apply for the 2022-2023 School Year!](https://www.dallasisd.org/domain/28951),
+Online applications to the School of Science and Engineering Magnet (SEM) will be available online beginning November 2021 through January 31, 2022.
+
+
+
+[2023 details](tiny.cc/TAGApply)
+
 
 ## 其他
 
