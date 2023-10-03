@@ -207,7 +207,8 @@ Department of public safety
 
 
 德州驾照办理官网预约: [here](https://public.txdpsscheduler.com)
-
+[DL-15 What to bring with you when applying for a Texas Driver License or Identification Card](https://www.dps.texas.gov/internetforms/Forms/DL-15.pdf):
+Evidence of Texas Vehicle Registration for each vehicle you own (New residents who are surrendering an out-of-state driver license only.)
 
 
 
@@ -1139,3 +1140,4 @@ Fort Worth第一天就是上面那些玩的，第二天可以去Fort Worth植物
 
 
 如果有时间day trip的话，完全可以去休斯顿NASA, 当天来回。还可以去San Antonio，沿河玩一天。还有Austin Day trip 也可以。
+
