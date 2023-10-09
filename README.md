@@ -18,8 +18,8 @@
     - [简介](#简介)
     - [租房](#租房)
     - [北达拉斯学区介绍](#北达拉斯学区介绍)
-    - [DallasISD](#dallasisd)
-      - [Highland Park](#highland-park)
+    - [Dallas ISD](#dallas-isd)
+    - [Highland Park ISD](#highland-park-isd)
     - [Plano](#plano)
     - [Frisco](#frisco)
     - [Southlake](#southlake)
@@ -32,6 +32,10 @@
     - [Registration](#registration)
     - [Test Scores](#test-scores)
     - [TAG and SEM](#tag-and-sem)
+    - [PSAT](#psat)
+      - [Read Chapters](#read-chapters)
+      - [PSAT Math](#psat-math)
+      - [PSAT Reading and Writing](#psat-reading-and-writing)
   - [其他](#其他)
     - [购物](#购物)
     - [驾照](#驾照-1)
@@ -366,7 +370,7 @@ Preston hollow学校不好，住这里只能上私校。但是这里的私校很
 在walnut hill ln和 dallas north tollway交叉口的西北角，有一条街叫gaywood rd，楼主要是能搬到那条街上，以后一定要搞好邻里关系
 
 
-Park Cities is a term used in reference to two communities in Dallas County, Texas – the Town of Highland Park and the City of University Park.
+Park Cities is a term used in reference to two communities in Dallas County, Texas - the Town of Highland Park and the City of University Park.
 
 达拉斯交通非常堵，60-70万确实frisco, allen 可以买新房，Plano没有什么新的，都比较旧。这几个到downtown 真的单程2小时那种，简直不能忍。而且学校里面,特别frisco 印度人非常多，很多小学和初中，印度人都占了70% ，非常夸张。和coppell 差不多吧。楼主要想提高生活质量，少花时间在路上，只能加钱，两个Park 学区都是非常的好，有预算多点还是考虑两个Park.
 
@@ -407,6 +411,17 @@ Plano hmart和ranch 99附近有一些餐馆中午有简餐
 老美爱去的legacy west，总部区之类的都很近……
 
 
+
+一般来说，刚搬来的人都觉得应该住宇宙中心Plano（学区没得说，各种课后班就近，非常方便），
+然后住了一段时间之后一部分人（通常是受不了太内卷）分流到
+Frisco （高中学校小，娃容易出头）,
+Allen (房子新，不那么卷),
+Southlake (富人区),
+Highland Park (Highland Park/University Park 好学区，华人相对少，或者以后进St. Marks/Hockaday顶级私校)
+
+一个例子供楼主参考：本来一个13岁的女生在Plano什么头都出不了，哪儿都进不去（真的是在Plano什么队都进不去），后来家人推了一下，进了Hockaday, 现在是数学尖子，代表学校参加State level 数学竞赛/轻松进私校系统的All state orchestra/校Debate team/校运动队/业余时间发起non-profict组织，自己做president，一路开挂，在去藤校的路上一路狂奔
+
+
 ### 简介
 
 downtown上班最方便当然是住park cities了，包括highland park和university park，不过这两个地方房价中位数都是超过一百万的
@@ -420,8 +435,8 @@ plano最好的区域是75093，房子大概九几年，或者是00以后的，�
 
 (2014)
 Plano就一中产聚集地而已，房子在25万到30万之间，算这个house range内的好学区，老中多，但绝对不能跟highlanpark和southlake的学校相比。southlake房子50万起价，那地不让建town house和apartment，只能建house，而且是4000尺以上，99%的居民是白人。他们那个区的高中橄榄球队，是全texas冠军，家长的生活就是以那个高中的football game为主。
- 
- 达拉斯便宜归便宜，但是工资没那么高。大多数上班族8-10万，所以plano比较合适，highland，southlake一般的工薪双职工还真的买不起。
+
+达拉斯便宜归便宜，但是工资没那么高。大多数上班族8-10万，所以plano比较合适，highland，southlake一般的工薪双职工还真的买不起。
 
 
 ### 租房
@@ -445,6 +460,10 @@ you should have copies of all the necessary back-up documentation at the ready, 
 Less frequently required, but you should still have on hand in case you need them:
 - A letter of recommendation or verification from your current and / or previous landlords.
 - A list of references—your accountant, or lawyer, or past employers—with phone numbers, to put on the application, if necessary.
+
+
+
+开通电： https://www.powertochoose.org/
 
 
 
@@ -519,9 +538,9 @@ highland park还是Southlake 是life style的选择。不能死抠学校。住�
 最后我想说，父母的阶层就决定子女的起点。找好学区不如家长提高自己，对孩子言传身教。一般孩子优秀的，都有优秀和愿意陪伴孩子的父母。
 
 
-### DallasISD
+### Dallas ISD
 
-你非要用DallasISD 几个学校来说明你们是好学区，还推荐给楼主看就是不对的。 DallasISD是差学区。你都说了中学要被迫去做其他选择了， 要吗私校， 要吗考TAG。 Lakewood 的房子又老， 学区又差，如果不是离downtown近工作的地方， 为什么要在那儿买房？ 大多数人不会花90万买房，再送私校。90万，DFW地区可以买到更好的地区， k-12公立学校。 
+你非要用 Dallas ISD 几个学校来说明你们是好学区，还推荐给楼主看就是不对的。 Dallas ISD 是差学区。你都说了中学要被迫去做其他选择了， 要吗私校， 要吗考TAG。 Lakewood 的房子又老， 学区又差，如果不是离downtown近工作的地方， 为什么要在那儿买房？ 大多数人不会花90万买房，再送私校。90万，DFW地区可以买到更好的地区， k-12公立学校。
 
 Dallas ISD有非常好的中学可以考进去，比如middle school里面Travis非常好，高中可以考TAG, the School for the Talented and Gifted。
 
@@ -530,7 +549,33 @@ Dallas中心的talented school只对Dallas county开放。而且要考的，如�
 Lakewood其实交通来说，对你老公还满合适的。但是，只有小学10分。初中高中要么私利，要么考talented school。
 
 
-#### Highland Park
+
+other:
+[Dallas ISD International Baccalaureate](https://www.dallasisd.org/Page/70412)
+
+
+[Dallas ISD Map](https://www.dallasisd.org/cms/lib/TX01001475/Centricity/domain/89/schoolinfo/mainmapscurrent/Main%20Map%20All%20Boundaries%2036x38.pdf),
+!!! Highland Park ISD is excluded !!!
+
+
+
+The School for the Talented and Gifted (TAG)
+1201 E Eighth St, Dallas, Texas 75203
+
+
+Science and Engineering Magnet School
+
+
+Irma Lerma Rangel Young Women's Leadership School
+
+
+Booker T Washington School for the Performing and Visual Arts
+
+
+
+
+### Highland Park ISD
+
 
 Highland park学区对老师要求高，感觉那个家长群和Palo Alto有一拼。六十万预算 University park好很多，而且去哪里都方便，博物馆各种资源离得近，southlake相当远啊。
 
@@ -557,6 +602,12 @@ Highland park学区对老师要求高，感觉那个家长群和Palo Alto有一�
 住：只对university park这边了解一些，plano了解不多。。。。
 
 行：好吧，rush hour的时候是有些堵车，你要是在downtown上班，我一般早上8点路过donwtown，也没有堵得死死的。就是车多，移动慢一点，所以也还好，你要是想避免traffic，可以把车停在Dart车站，然后坐小火车进downtown，挺安全的
+
+
+
+[here](https://www.dmagazine.com/frontburner/2017/12/is-dallas-isd-a-better-school-district-than-highland-park-isd/):
+My daughter moved to HP in 8th Grade because I foolishly thought I'd be giving her "the best education" I could afford. My child was so unhappy by March that I withdrew her from HP. The girls in HP were evil to her. No other word describes their mean spirited behavior. They come from money but have no manners once they are sent out into the world to use said manners!
+
 
 ### Plano
 
@@ -741,6 +792,106 @@ Online applications to the School of Science and Engineering Magnet (SEM) will b
 
 [2023 details](tiny.cc/TAGApply)
 
+### PSAT
+
+
+#### Read Chapters
+
+AoPS-Art of Problem Solving-Introduction to Geometry-2007
+Chapter 18 Introduction to Trigonometry
+
+AoPS-Art of Problem Solving-Introduction to Algebra-2007
+Chapter 10 Quadratic Equations Part 1,
+Chapter 13 Quadratic Equations Part 2, quadratic formula
+
+
+#### PSAT Math
+
+Algebra
+(13-15 questions)	Solving, creating, and using:
+- Linear equations
+- Linear functions
+- Linear inequalities
+- Systems of linear equations
+
+Making connections between different representations of linear relationships
+
+
+Advanced Math
+(12-14 questions)	Interpreting, solving, creating, and using:
+- Equations with absolute value
+- Equations with radicals
+- Quadratic equations
+- Exponential equations
+- Polynomial equations
+- Rational equations
+- Other nonlinear equations
+
+
+
+
+Problem Solving and Data Analysis
+(7-9 questions)	Solving questions using:
+- Ratios
+- Rates
+- Proportions
+- Units
+- Percentages
+
+Analyzing and interpreting data, including distributions and scatterplots
+
+Calculating and interpreting:
+- Probability and conditional probability
+- Mean, median, and range
+
+Comparing distributions’ standard deviations
+
+
+
+Geometry and Trigonometry
+(4-6 questions)	Solving questions involving:
+- Area and volume
+- Lines, angles, and triangles
+- Right angles and trigonometry
+
+
+
+#### PSAT Reading and Writing
+
+Information and Ideas
+(12-14 questions)	Using reading comprehension, analysis, and reasoning skills to answer questions about:
+- Main ideas
+- Details
+- Command of Evidence (text and graphs/tables)
+- Inferences
+
+Interpreting, evaluating, and, integrating ideas
+
+
+Craft and Structure
+(13-15 questions)	Using reading comprehension, analysis, and reading skills to answer questions about:
+- The meaning of words in context
+- The purpose of texts
+- Connections between related texts
+
+
+
+Expression of Ideas
+(8-12 questions)	Using revision skills to answer questions about:
+- Synthesizing ideas to achieve rhetorical goals
+- Making effective transitions
+
+
+
+Standard English Conventions
+(11-15 questions)	Using editing skills to follow Standard English conventions, including:
+- Sentence structure
+- Punctuation
+- Verb agreement
+- Pronoun agreement
+- Modifier agreement
+
+
 
 ## 其他
 
@@ -878,6 +1029,14 @@ Grayson, Fannin, Collin, Hunt, Dallas, Rockwall, Kaufman, Van Zandt, Ellis, Hend
 [Citizen App](https://citizen.com/)是一款基于定位实时向用户发送附近安全警报的应用程序，主要在全美约30个大城市提供服务，该应用通过用户提示、监听执法无线电通信和其他来源获取信息，涵盖了包括火灾、车祸、儿童失踪、其他犯罪等的报告。
 Citizen App上用户众多，有很多一手消息来源，现场直播视频，甚至比新闻报道还快。但是也引发了一些争议，因为有时候有市民打911报案，并不一定真有罪案发生，而Citizen迅速的警报有可能会引发过度焦虑。
 
+
+
+
+[dallas floodplain](https://msc.fema.gov/portal/search?AddressQuery=dallas%2Ctx)
+The National Flood Hazard Layer(NFHL) dataset,
+effective flood data for the country,
+Flood Insurance Rate Map(FIRM),
+Letters of Map Revision (LOMRs)
 
 
 ### 美国达拉斯租房攻略 2018
